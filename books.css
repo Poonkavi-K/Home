@@ -1,0 +1,27 @@
+
+p
+{	text-align : justify;
+	font-size : 15pt;
+	line-height : 20pt;
+}
+
+body
+{
+	font-family : serif;
+	background-color: #fff2ea;
+}
+
+.header
+{
+	padding : 60px;
+	text-align : center;
+	background : #6b3e2e;
+	color : white;
+	font-size : 30pt;
+}
+
+
+	
+
+	
+	
